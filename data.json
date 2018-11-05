@@ -1,0 +1,38 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "name": "test",
+            "password": "un"
+        },
+        {
+            "id": "2",
+            "name": "samarche",
+            "password": "pas"
+        },
+        {
+            "id": "3",
+            "name": "Wal",
+            "password": ""
+        },
+        {
+            "id": "42",
+            "name": "Harry",
+            "password": "pottier"
+        },
+        {
+            "id": "1",
+            "name": "samarche",
+            "password": "tjrpas"
+        }
+    ],
+    "items": [
+        {
+            "id": "1",
+            "label": "unPanierdeYoplait",
+            "image": "../mangerdesfruitsetlegumes",
+            "description": "au moins 5 fruits et legumes par jour"
+        }
+    ],
+    "list": []
+}
